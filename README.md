@@ -22,3 +22,7 @@ Implemented using 8 (5 class files and 3 sub classes) class files:
 
 -GraphLoader class file: loads the graph files from the command line using the global buffered reader file reader object
 
+The Pro5_samireez.java/class is the main class file
+
+The .txt files are graphs used for testing
+
