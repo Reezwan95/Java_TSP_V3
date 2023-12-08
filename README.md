@@ -4,7 +4,7 @@ This program asks the user to enter specific menu options to load a graph from a
 
 The program also contains error handling for inccorectly loading graphs, non-existent files and results, in addition to the error handling in V2
 
-Implemented using 4 class files:
+Implemented using 8 (5 class files and 3 sub classes) class files:
 
 -Main class file: contains the main function, the global buffered reader object and helper functions
 
